@@ -1,6 +1,6 @@
 # aostats
 
-![Distribuzione popolazione](img/alt_dist.svg?raw=true "Altitudine")
+![Distribuzione popolazione](img/alt_dist.svg?sanitize=true "Altitudine")
 
 
 ## Data
